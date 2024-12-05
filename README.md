@@ -1,6 +1,6 @@
 # free4fun
 <div align="center">
-  <h1>Hi, I'm Mauricio Sosa Giri. I'm settle</h1>
+  <h1>Hi, I'm Mauricio Sosa Giri.</h1>
   <h3>Multi Skilled IT</h3>
 </div>
 
